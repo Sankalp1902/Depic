@@ -1,6 +1,6 @@
 # depic
 
-Depriciation  Calculator
+A simple depriciation  Calculator using flutter
 
 ## Getting Started
 
